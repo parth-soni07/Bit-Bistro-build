@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbotanix_project=self.webpackChunkbotanix_project||[]).push([[1777],{1777:(e,t,a)=>{a.r(t),a.d(t,{default:()=>c.n});var c=a(1191)}}]);
